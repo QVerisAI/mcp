@@ -1,5 +1,11 @@
 # @qverisai/mcp
 
+> [!IMPORTANT]
+> This repository is deprecated. The active `@qverisai/mcp` source now lives in
+> [QVerisAI/qveris-agent-toolkit/packages/mcp](https://github.com/QVerisAI/qveris-agent-toolkit/tree/main/packages/mcp).
+> Please file issues and pull requests in
+> [QVerisAI/qveris-agent-toolkit](https://github.com/QVerisAI/qveris-agent-toolkit).
+
 Official QVeris MCP Server — Dynamically search and execute tools via natural language.
 
 [![npm version](https://img.shields.io/npm/v/@qverisai/mcp.svg)](https://www.npmjs.com/package/@qverisai/mcp)
